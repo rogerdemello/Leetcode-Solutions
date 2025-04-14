@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 ## Two Pointers
 |  |
 | ------- |
