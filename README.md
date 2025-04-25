@@ -13,6 +13,7 @@
 | [1656-count-good-triplets](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [2249-count-the-hidden-sequences](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
