@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -62,6 +63,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 ## Math
 |  |
