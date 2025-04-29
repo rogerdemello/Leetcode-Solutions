@@ -105,4 +105,8 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
