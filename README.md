@@ -86,6 +86,7 @@
 | [0141-linked-list-cycle](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -112,6 +113,7 @@
 | [0076-minimum-window-substring](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
