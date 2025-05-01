@@ -42,6 +42,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0890-lemonade-change) |
@@ -240,6 +241,7 @@
 | [0229-majority-element-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0274-h-index) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
@@ -323,4 +325,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0223-rectangle-area) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
