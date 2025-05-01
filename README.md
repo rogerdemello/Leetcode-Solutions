@@ -159,6 +159,7 @@
 | [0189-rotate-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0223-rectangle-area) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -286,4 +287,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
