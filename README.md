@@ -108,6 +108,7 @@
 | [0242-valid-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -136,6 +137,7 @@
 | [0168-excel-sheet-column-title](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
