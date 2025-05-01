@@ -103,6 +103,7 @@
 | [0067-add-binary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -135,6 +136,7 @@
 | [0050-powx-n](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
