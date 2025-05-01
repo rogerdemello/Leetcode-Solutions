@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0152-maximum-product-subarray](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -48,6 +49,7 @@
 | [0001-two-sum](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
