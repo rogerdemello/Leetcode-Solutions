@@ -97,6 +97,7 @@
 | [0217-contains-duplicate](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -124,6 +125,7 @@
 | [0125-valid-palindrome](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -225,6 +227,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
