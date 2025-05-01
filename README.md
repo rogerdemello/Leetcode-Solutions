@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@
 | [0043-multiply-strings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -106,6 +108,7 @@
 | [0043-multiply-strings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -180,4 +183,5 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
