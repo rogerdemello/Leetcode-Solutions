@@ -213,6 +213,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -233,6 +234,7 @@
 | [0029-divide-two-integers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 ## Matrix
 |  |
 | ------- |
