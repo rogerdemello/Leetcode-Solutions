@@ -41,6 +41,7 @@
 | [0238-product-of-array-except-self](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0890-lemonade-change) |
@@ -101,6 +102,7 @@
 | [0229-majority-element-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -175,6 +177,7 @@
 | [0258-add-digits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -204,6 +207,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sliding Window
@@ -235,6 +239,7 @@
 | [0217-contains-duplicate](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
@@ -285,6 +290,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
