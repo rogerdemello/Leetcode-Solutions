@@ -63,6 +63,7 @@
 | [0141-linked-list-cycle](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
@@ -83,6 +84,7 @@
 | [0076-minimum-window-substring](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -146,6 +148,7 @@
 | [0168-excel-sheet-column-title](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
