@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -56,6 +57,7 @@
 | [0013-roman-to-integer](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -185,4 +187,8 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0067-add-binary) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
