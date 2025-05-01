@@ -100,6 +100,7 @@
 | [0013-roman-to-integer](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0050-powx-n) |
 ## Trie
 |  |
 | ------- |
