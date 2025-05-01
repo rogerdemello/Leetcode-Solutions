@@ -77,6 +77,7 @@
 | [0043-multiply-strings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
