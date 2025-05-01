@@ -34,6 +34,7 @@
 | [0198-house-robber](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0890-lemonade-change) |
@@ -207,6 +208,7 @@
 | [0088-merge-sorted-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
@@ -229,6 +231,7 @@
 | [0169-majority-element](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -269,4 +272,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
