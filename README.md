@@ -163,6 +163,7 @@
 | [0202-happy-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -249,6 +250,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
@@ -266,6 +268,7 @@
 | [0190-reverse-bits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
