@@ -46,6 +46,7 @@
 | [0283-move-zeroes](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0318-maximum-product-of-word-lengths](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0890-lemonade-change) |
@@ -141,6 +142,7 @@
 | [0242-valid-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0318-maximum-product-of-word-lengths](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -307,6 +309,7 @@
 | [0260-single-number-iii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 ## Matrix
 |  |
 | ------- |
