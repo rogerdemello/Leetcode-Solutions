@@ -194,6 +194,7 @@
 | [0264-ugly-number-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -293,6 +294,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0326-power-of-three) |
 ## Trie
 |  |
 | ------- |
