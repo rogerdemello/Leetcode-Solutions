@@ -192,6 +192,7 @@
 | [0263-ugly-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -346,4 +347,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0274-h-index) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
