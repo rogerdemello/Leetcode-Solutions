@@ -393,4 +393,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
