@@ -171,6 +171,7 @@
 | [0198-house-robber](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 ## Math
 |  |
@@ -319,6 +320,7 @@
 | [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
 | ------- |
