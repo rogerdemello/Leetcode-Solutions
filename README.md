@@ -49,6 +49,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0330-patching-array) |
+| [0347-top-k-frequent-elements](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0890-lemonade-change) |
@@ -116,6 +117,7 @@
 | [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -160,6 +162,7 @@
 | [0169-majority-element](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Stack
@@ -272,6 +275,7 @@
 | [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
@@ -297,6 +301,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -340,6 +345,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -354,11 +360,13 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Geometry
 |  |
 | ------- |
