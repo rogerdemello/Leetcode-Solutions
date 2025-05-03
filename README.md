@@ -197,6 +197,7 @@
 | [0268-missing-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -298,6 +299,7 @@
 | [0050-powx-n](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Trie
 |  |
 | ------- |
@@ -321,6 +323,7 @@
 | [0287-find-the-duplicate-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
