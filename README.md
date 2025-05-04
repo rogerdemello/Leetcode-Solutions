@@ -217,6 +217,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0372-super-pow) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -319,6 +320,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0372-super-pow) |
 ## Recursion
 |  |
 | ------- |
