@@ -227,6 +227,7 @@
 | [0367-valid-perfect-square](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0372-super-pow) |
+| [0390-elimination-game](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -345,6 +346,7 @@
 | [0231-power-of-two](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0390-elimination-game) |
 ## Trie
 |  |
 | ------- |
