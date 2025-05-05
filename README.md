@@ -167,6 +167,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
