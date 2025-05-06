@@ -212,6 +212,7 @@
 | [0338-counting-bits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 ## Math
 |  |
@@ -246,6 +247,7 @@
 | [0390-elimination-game](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -366,6 +368,7 @@
 | [0326-power-of-three](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0390-elimination-game) |
+| [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -456,4 +459,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
