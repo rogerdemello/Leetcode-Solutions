@@ -61,6 +61,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0890-lemonade-change) |
@@ -143,6 +144,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -340,6 +342,7 @@
 | [0414-third-maximum-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
@@ -408,6 +411,7 @@
 | [0342-power-of-four](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 ## Matrix
 |  |
 | ------- |
