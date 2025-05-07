@@ -99,6 +99,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
@@ -251,6 +252,7 @@
 | [0412-fizz-buzz](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -293,6 +295,7 @@
 | [0367-valid-perfect-square](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0633-sum-of-square-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sliding Window
