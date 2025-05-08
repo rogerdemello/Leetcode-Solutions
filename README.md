@@ -66,6 +66,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0792-binary-search](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0816-design-hashset](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -150,6 +151,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0816-design-hashset](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -369,6 +371,7 @@
 | [0141-linked-list-cycle](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0816-design-hashset](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0816-design-hashset) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -490,4 +493,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
