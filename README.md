@@ -63,6 +63,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0890-lemonade-change) |
