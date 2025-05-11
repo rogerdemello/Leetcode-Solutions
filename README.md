@@ -224,6 +224,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Dynamic Programming
 |  |
@@ -513,6 +514,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Memoization
 |  |
@@ -522,6 +524,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0816-design-hashset](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0817-design-hashmap) |
 ## Hash Function
