@@ -229,6 +229,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -254,6 +255,7 @@
 | [0050-powx-n](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -515,6 +517,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
