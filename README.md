@@ -64,6 +64,7 @@
 | [0645-set-mismatch](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0816-design-hashset) |
@@ -109,6 +110,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
@@ -315,6 +317,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -361,6 +364,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
