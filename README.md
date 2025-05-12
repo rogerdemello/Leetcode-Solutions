@@ -84,6 +84,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2714-left-and-right-sum-differences](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -353,6 +354,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2249-count-the-hidden-sequences](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2249-count-the-hidden-sequences) |
+| [2714-left-and-right-sum-differences](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |
