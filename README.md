@@ -70,6 +70,7 @@
 | [0724-find-pivot-index](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0777-toeplitz-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0816-design-hashset) |
@@ -477,6 +478,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0777-toeplitz-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0777-toeplitz-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
