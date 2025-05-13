@@ -286,6 +286,7 @@
 | [0507-perfect-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
