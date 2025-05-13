@@ -297,6 +297,7 @@
 | [0633-sum-of-square-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0738-monotone-increasing-digits) |
+| [0755-reach-a-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0755-reach-a-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0790-global-and-local-inversions](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0790-global-and-local-inversions) |
 | [0796-reaching-points](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0796-reaching-points) |
@@ -351,6 +352,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0755-reach-a-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
