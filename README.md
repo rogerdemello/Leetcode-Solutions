@@ -298,6 +298,7 @@
 | [0738-monotone-increasing-digits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0790-global-and-local-inversions](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0790-global-and-local-inversions) |
+| [0796-reaching-points](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0796-reaching-points) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
