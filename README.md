@@ -119,6 +119,7 @@
 | [0633-sum-of-square-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
@@ -162,6 +163,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0768-partition-labels](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0817-design-hashmap) |
@@ -208,6 +210,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0647-palindromic-substrings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0742-to-lower-case) |
+| [0768-partition-labels](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -308,6 +311,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0738-monotone-increasing-digits) |
+| [0768-partition-labels](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
