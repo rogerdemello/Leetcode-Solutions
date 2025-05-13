@@ -289,6 +289,7 @@
 | [0633-sum-of-square-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0738-monotone-increasing-digits) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -464,6 +465,7 @@
 | [0371-sum-of-two-integers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Matrix
 |  |
 | ------- |
