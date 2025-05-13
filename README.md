@@ -71,6 +71,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0777-toeplitz-matrix) |
+| [0790-global-and-local-inversions](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0816-design-hashset) |
@@ -296,6 +297,7 @@
 | [0728-self-dividing-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0790-global-and-local-inversions](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
