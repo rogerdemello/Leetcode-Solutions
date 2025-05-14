@@ -49,6 +49,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -340,6 +341,7 @@
 | [0011-container-with-most-water](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
