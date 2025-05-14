@@ -170,6 +170,7 @@
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0817-design-hashmap) |
+| [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -215,6 +216,7 @@
 | [0742-to-lower-case](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
+| [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -255,6 +257,7 @@
 | [0647-palindromic-substrings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
+| [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 ## Math
