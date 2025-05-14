@@ -83,6 +83,7 @@
 | [0941-sort-array-by-parity](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1293-three-consecutive-odds](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -179,6 +180,7 @@
 | [0816-design-hashset](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0817-design-hashmap) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -240,6 +242,7 @@
 | [0383-ransom-note](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Stack
@@ -314,6 +317,7 @@
 | [0796-reaching-points](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0796-reaching-points) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0944-smallest-range-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0944-smallest-range-i) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -521,6 +525,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
