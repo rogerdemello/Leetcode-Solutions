@@ -310,6 +310,7 @@
 | [0371-sum-of-two-integers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0372-super-pow) |
 | [0390-elimination-game](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0390-elimination-game) |
+| [0400-nth-digit](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0507-perfect-number) |
@@ -370,6 +371,7 @@
 | [0367-valid-perfect-square](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
