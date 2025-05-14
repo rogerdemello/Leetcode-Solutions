@@ -131,6 +131,7 @@
 | [0768-partition-labels](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
+| [0953-reverse-only-letters](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
@@ -228,6 +229,7 @@
 | [0768-partition-labels](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0953-reverse-only-letters](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
