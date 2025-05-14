@@ -81,6 +81,7 @@
 | [0898-transpose-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0944-smallest-range-i) |
 | [1293-three-consecutive-odds](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -311,6 +312,7 @@
 | [0790-global-and-local-inversions](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0790-global-and-local-inversions) |
 | [0796-reaching-points](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0796-reaching-points) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0944-smallest-range-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
