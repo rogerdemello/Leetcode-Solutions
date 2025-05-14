@@ -123,6 +123,7 @@
 | [0647-palindromic-substrings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0908-middle-of-the-linked-list](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
@@ -429,6 +430,7 @@
 | [0206-reverse-linked-list](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0817-design-hashmap) |
+| [0908-middle-of-the-linked-list](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
