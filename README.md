@@ -236,6 +236,7 @@
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0953-reverse-only-letters](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0961-long-pressed-name) |
+| [0962-flip-string-to-monotone-increasing](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -280,6 +281,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [0962-flip-string-to-monotone-increasing](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 ## Math
