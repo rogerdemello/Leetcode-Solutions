@@ -88,6 +88,7 @@
 | [0951-partition-array-into-disjoint-intervals](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0978-valid-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0978-valid-mountain-array) |
+| [0979-di-string-match](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1293-three-consecutive-odds](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -137,6 +138,7 @@
 | [0941-sort-array-by-parity](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0961-long-pressed-name) |
+| [0979-di-string-match](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
@@ -239,6 +241,7 @@
 | [0961-long-pressed-name](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0961-long-pressed-name) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0977-distinct-subsequences-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0977-distinct-subsequences-ii) |
+| [0979-di-string-match](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -357,6 +360,7 @@
 | [0768-partition-labels](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0890-lemonade-change) |
+| [0979-di-string-match](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
