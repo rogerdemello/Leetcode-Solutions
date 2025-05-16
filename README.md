@@ -90,6 +90,7 @@
 | [0978-valid-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1293-three-consecutive-odds](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -260,6 +261,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Stack
@@ -363,6 +365,7 @@
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0979-di-string-match) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -449,6 +452,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
