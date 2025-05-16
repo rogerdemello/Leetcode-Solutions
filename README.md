@@ -91,6 +91,7 @@
 | [0979-di-string-match](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1293-three-consecutive-odds](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -151,6 +152,7 @@
 | [0258-add-digits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2048-build-array-from-permutation](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -453,6 +455,7 @@
 | [0941-sort-array-by-parity](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
@@ -605,6 +608,7 @@
 | [0225-implement-stack-using-queues](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Memoization
 |  |
 | ------- |
