@@ -89,6 +89,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0978-valid-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1293-three-consecutive-odds](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -242,6 +243,7 @@
 | [0962-flip-string-to-monotone-increasing](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0977-distinct-subsequences-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [0979-di-string-match](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
