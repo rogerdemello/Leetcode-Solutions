@@ -183,6 +183,7 @@
 | [0383-ransom-note](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -231,6 +232,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -358,6 +360,7 @@
 | [0324-wiggle-sort-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0409-longest-palindrome](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
