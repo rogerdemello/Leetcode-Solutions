@@ -151,6 +151,7 @@
 | [0067-add-binary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2048-build-array-from-permutation](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
@@ -234,6 +235,7 @@
 | [0392-is-subsequence](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0520-detect-capital) |
@@ -335,6 +337,7 @@
 | [0400-nth-digit](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
