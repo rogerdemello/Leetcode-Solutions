@@ -99,6 +99,7 @@
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1464-reduce-array-size-to-the-half](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1656-count-good-triplets](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [2048-build-array-from-permutation](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2249-count-the-hidden-sequences](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2249-count-the-hidden-sequences) |
@@ -201,6 +202,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1464-reduce-array-size-to-the-half](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1500-count-largest-group](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -384,6 +386,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1464-reduce-array-size-to-the-half](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Binary Search
@@ -473,6 +476,7 @@
 | [0948-sort-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1464-reduce-array-size-to-the-half](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
@@ -587,6 +591,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [1464-reduce-array-size-to-the-half](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 ## Quickselect
 |  |
 | ------- |
