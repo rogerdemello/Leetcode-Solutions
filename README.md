@@ -208,6 +208,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [0991-array-of-doubled-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1010-powerful-integers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1010-powerful-integers) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
@@ -368,6 +369,7 @@
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0944-smallest-range-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1010-powerful-integers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -494,6 +496,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [1010-powerful-integers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1010-powerful-integers) |
 | [1656-count-good-triplets](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 ## Linked List
 |  |
