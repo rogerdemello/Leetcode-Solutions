@@ -98,6 +98,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [0991-array-of-doubled-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -150,6 +151,7 @@
 | [0953-reverse-only-letters](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0979-di-string-match) |
+| [1019-squares-of-a-sorted-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
@@ -489,6 +491,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0991-array-of-doubled-pairs) |
+| [1019-squares-of-a-sorted-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
