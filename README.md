@@ -97,6 +97,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0990-verifying-an-alien-dictionary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [0991-array-of-doubled-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0991-array-of-doubled-pairs) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1293-three-consecutive-odds](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -206,6 +207,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0990-verifying-an-alien-dictionary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [0991-array-of-doubled-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0991-array-of-doubled-pairs) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
