@@ -96,6 +96,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0990-verifying-an-alien-dictionary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [0991-array-of-doubled-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1293-three-consecutive-odds](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -204,6 +205,7 @@
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0990-verifying-an-alien-dictionary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [0991-array-of-doubled-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
@@ -389,6 +391,7 @@
 | [0890-lemonade-change](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0991-array-of-doubled-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
@@ -481,6 +484,7 @@
 | [0948-sort-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0991-array-of-doubled-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
