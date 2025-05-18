@@ -67,6 +67,7 @@
 | [0645-set-mismatch](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0697-degree-of-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -193,6 +194,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0768-partition-labels](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
