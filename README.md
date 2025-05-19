@@ -260,6 +260,7 @@
 | [0415-add-strings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0482-license-key-formatting](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0647-palindromic-substrings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
