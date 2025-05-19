@@ -61,6 +61,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -433,6 +434,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0400-nth-digit) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
