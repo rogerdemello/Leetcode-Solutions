@@ -332,6 +332,7 @@
 | [0977-distinct-subsequences-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1086-divisor-game](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1086-divisor-game) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
@@ -389,6 +390,7 @@
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1048-clumsy-factorial](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1048-clumsy-factorial) |
+| [1086-divisor-game](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1086-divisor-game) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -656,6 +658,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
+| [1086-divisor-game](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1086-divisor-game) |
 ## Database
 |  |
 | ------- |
@@ -695,6 +698,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1086-divisor-game) |
 ## Merge Sort
 |  |
 | ------- |
