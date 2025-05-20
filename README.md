@@ -170,6 +170,7 @@
 | [0415-add-strings](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1048-clumsy-factorial](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1048-clumsy-factorial) |
 | [2048-build-array-from-permutation](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -302,6 +303,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [1048-clumsy-factorial](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1048-clumsy-factorial) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Dynamic Programming
 |  |
@@ -383,6 +385,7 @@
 | [1010-powerful-integers](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
+| [1048-clumsy-factorial](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1048-clumsy-factorial) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
