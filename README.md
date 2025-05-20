@@ -106,6 +106,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1127-last-stone-weight](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -637,6 +638,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 ## Quickselect
 |  |
