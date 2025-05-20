@@ -281,6 +281,7 @@
 | [0979-di-string-match](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -306,6 +307,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1048-clumsy-factorial](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1048-clumsy-factorial) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Dynamic Programming
