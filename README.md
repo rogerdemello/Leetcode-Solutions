@@ -594,6 +594,7 @@
 | [0476-number-complement](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1054-complement-of-base-10-integer](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1054-complement-of-base-10-integer) |
 ## Matrix
 |  |
 | ------- |
