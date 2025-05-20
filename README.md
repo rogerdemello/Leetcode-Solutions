@@ -103,6 +103,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1293-three-consecutive-odds](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -407,6 +408,7 @@
 | [0979-di-string-match](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0991-array-of-doubled-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0991-array-of-doubled-pairs) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
@@ -507,6 +509,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1019-squares-of-a-sorted-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
