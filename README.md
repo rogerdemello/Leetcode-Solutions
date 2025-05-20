@@ -105,6 +105,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1063-best-sightseeing-pair](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -330,6 +331,7 @@
 | [0962-flip-string-to-monotone-increasing](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0977-distinct-subsequences-ii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
