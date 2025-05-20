@@ -102,6 +102,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
+| [1046-max-consecutive-ones-iii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -444,6 +445,7 @@
 | [0755-reach-a-number](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sliding Window
 |  |
@@ -455,6 +457,7 @@
 | [0413-arithmetic-slices](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -465,6 +468,7 @@
 | [0238-product-of-array-except-self](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2249-count-the-hidden-sequences](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2714-left-and-right-sum-differences](https://github.com/rogerdemello/Leetcode-Solutions/tree/master/2714-left-and-right-sum-differences) |
